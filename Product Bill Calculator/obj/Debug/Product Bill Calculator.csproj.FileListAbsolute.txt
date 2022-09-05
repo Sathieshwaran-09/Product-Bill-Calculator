@@ -1,0 +1,20 @@
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.exe.config
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.exe
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.pdb
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.AssemblyReference.cache
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product_Bill_Calculator.Form1.resources
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product_Bill_Calculator.Properties.Resources.resources
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.GenerateResource.cache
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.CoreCompileInputs.cache
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.exe
+D:\Workspace\Dotnet Development\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.pdb
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.exe.config
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.exe
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\bin\Debug\Product Bill Calculator.pdb
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.AssemblyReference.cache
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product_Bill_Calculator.Form1.resources
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product_Bill_Calculator.Properties.Resources.resources
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.GenerateResource.cache
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.exe
+C:\Users\Sathiesh\Downloads\Product Bill Calculator\Product Bill Calculator\obj\Debug\Product Bill Calculator.pdb
